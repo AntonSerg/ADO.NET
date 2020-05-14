@@ -1,0 +1,6 @@
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+E:\Learning(WIT)\C#\ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojAssemblyReference.cache
